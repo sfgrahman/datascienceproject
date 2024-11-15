@@ -1,1 +1,87 @@
 [2024-11-14 18:55:48,639: INFO: main:Welcome to our custom logging data science]
+[2024-11-15 09:19:39,269: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2024-11-15 09:19:39,285: INFO: common:yaml file: params.yaml loaded successfully]
+[2024-11-15 09:19:39,291: INFO: common:yaml file: schema.yaml loaded successfully]
+[2024-11-15 09:20:16,698: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2024-11-15 09:20:16,704: INFO: common:yaml file: params.yaml loaded successfully]
+[2024-11-15 09:20:16,710: INFO: common:yaml file: schema.yaml loaded successfully]
+[2024-11-15 09:23:37,957: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2024-11-15 09:23:37,961: INFO: common:yaml file: params.yaml loaded successfully]
+[2024-11-15 09:23:37,966: INFO: common:yaml file: schema.yaml loaded successfully]
+[2024-11-15 09:24:11,008: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2024-11-15 09:24:11,013: INFO: common:yaml file: params.yaml loaded successfully]
+[2024-11-15 09:24:11,017: INFO: common:yaml file: schema.yaml loaded successfully]
+[2024-11-15 09:24:12,457: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2024-11-15 09:24:12,462: INFO: common:yaml file: params.yaml loaded successfully]
+[2024-11-15 09:24:12,466: INFO: common:yaml file: schema.yaml loaded successfully]
+[2024-11-15 09:27:33,576: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2024-11-15 09:27:33,580: INFO: common:yaml file: params.yaml loaded successfully]
+[2024-11-15 09:27:33,585: INFO: common:yaml file: schema.yaml loaded successfully]
+[2024-11-15 09:41:09,736: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2024-11-15 09:41:09,740: INFO: common:yaml file: params.yaml loaded successfully]
+[2024-11-15 09:41:09,744: INFO: common:yaml file: schema.yaml loaded successfully]
+[2024-11-15 09:41:09,746: INFO: common:created directory at: artifacts]
+[2024-11-15 09:41:09,749: INFO: common:created directory at: artifacts/data_ingestion]
+[2024-11-15 09:41:10,991: INFO: 251335794:artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EB22:34183D:1D859E:23A997:6736B36D
+Accept-Ranges: bytes
+Date: Fri, 15 Nov 2024 03:41:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg1268-QPG
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1731642070.975029,VS0,VE278
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3ad56e4ca7b388a5ea4fa7c5626335c945b91168
+Expires: Fri, 15 Nov 2024 03:46:10 GMT
+Source-Age: 0
+
+]
+[2024-11-15 09:58:31,004: INFO: main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-11-15 09:58:31,007: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2024-11-15 09:58:31,008: INFO: common:yaml file: params.yaml loaded successfully]
+[2024-11-15 09:58:31,009: INFO: common:yaml file: schema.yaml loaded successfully]
+[2024-11-15 09:58:31,010: INFO: common:created directory at: artifacts]
+[2024-11-15 09:58:31,011: INFO: common:created directory at: artifacts/data_ingestion]
+[2024-11-15 09:58:32,047: INFO: data_ingestion:artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EB22:34183D:1D859E:23A997:6736B36D
+Accept-Ranges: bytes
+Date: Fri, 15 Nov 2024 03:58:31 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg1251-QPG
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1731643111.074448,VS0,VE273
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 53eb4c0323026b80f2abbc6bbfb9518aa61e8495
+Expires: Fri, 15 Nov 2024 04:03:31 GMT
+Source-Age: 0
+
+]
+[2024-11-15 09:58:32,069: INFO: main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
